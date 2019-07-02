@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+
+    <item android:id="@+id/nav_favourites"
+        android:icon="@drawable/favourites"
+        android:title="Favourites"/>
+
+    <item android:id="@+id/nav_health_tips"
+        android:icon="@drawable/loved"
+        android:title="Health Tips"/>
+
+    <item android:id="@+id/nav_logout"
+        android:icon="@drawable/logout"
+        android:title="Logout"/>
+
+</menu>
