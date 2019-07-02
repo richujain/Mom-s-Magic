@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "2376272629",
+    "firebase_url": "https://moms-magic-kerala-food-reccipe.firebaseio.com",
+    "project_id": "moms-magic-kerala-food-reccipe",
+    "storage_bucket": "moms-magic-kerala-food-reccipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2376272629:android:3c9ca5615a510818",
+        "android_client_info": {
+          "package_name": "com.pulimoottil.richu.momsmagickeralafoodrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2376272629-ms62j36vvefjfcrfmvkfaaf3ddbr78iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pulimoottil.richu.momsmagickeralafoodrecipe",
+            "certificate_hash": "17ec5d3cc8ed6a5cdf2c7f78f972eb454f7c2727"
+          }
+        },
+        {
+          "client_id": "2376272629-k2d9s6b3rkhdf733c43jsmru2r7bo3d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pulimoottil.richu.momsmagickeralafoodrecipe",
+            "certificate_hash": "e4cee3480cd2b25970967a9622160cb19cca58e3"
+          }
+        },
+        {
+          "client_id": "2376272629-vkbtt3178f7d7s7lh0oher3854odpv05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdj317VD9exZypPiG_R7oF4pbmYWX7Vi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2376272629-vkbtt3178f7d7s7lh0oher3854odpv05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
